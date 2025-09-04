@@ -1,3 +1,5 @@
+# AI Trend-to-Design Challenge
+
 This project implements an end-to-end AI-powered fashion design pipeline that detects trends from product images and generates new fashion designs.
 
 Objective
